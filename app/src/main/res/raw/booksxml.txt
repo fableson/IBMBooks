@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<booksxml><book>
+  <title>Every Good Endeavor</title>
+  <author>Timothy Keller with Katherine Leary Alsdorf</author>
+  <imagelink>https://www.encouragework.com/images/uploads/everygoodendeavor.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/dp/1594632820/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>The 7 Habits of Highly Effective People</title>
+  <author>Stephen Covey</author>
+  <imagelink>https://www.encouragework.com/images/uploads/7habits.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/dp/1451639619/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>Traction</title>
+  <author>Gino Wickman</author>
+  <imagelink>https://www.encouragework.com/images/uploads/tractionfront.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/dp/1936661837/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>Get a Grip</title>
+  <author>Gino Wickman and Bill Paton</author>
+  <imagelink>https://www.encouragework.com/images/uploads/getagripfront.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/dp/1939529824/tag=navitend-20</amazonlink>
+</book><book>
+  <title>Mastering the Rockefeller Habits</title>
+  <author>Verne Harnish</author>
+  <imagelink>https://www.encouragework.com/images/uploads/rockefellerhabits.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/Mastering-Rockefeller-Habits-Increase-Growing/dp/0978774957/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>Scaling Up</title>
+  <author>Verne Harnish</author>
+  <imagelink>https://www.encouragework.com/images/uploads/scalingup.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/Scaling-Up-Companies-Rockefeller-Habits/dp/0986019526/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>Good To Great</title>
+  <author>Jim Collins and Jerry Porras</author>
+  <imagelink>https://www.encouragework.com/images/uploads/goodtogreat.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/dp/0066620996/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>Scrum</title>
+  <author>Jeff Southerland</author>
+  <imagelink>https://www.encouragework.com/images/uploads/scrum.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>The Goal</title>
+  <author>Eli Goldratt</author>
+  <imagelink>https://www.encouragework.com/images/uploads/thegoal.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>It&#8217;s Not Luck</title>
+  <author>Eli Goldratt</author>
+  <imagelink>https://www.encouragework.com/images/uploads/itsnotluck.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/Its-Not-Luck-Eliyahu-Goldratt/dp/0884271153/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>Critical Chain</title>
+  <author>Eli Goldratt</author>
+  <imagelink>https://www.encouragework.com/images/uploads/criticalchain.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/Critical-Chain-Eliyahu-M-Goldratt/dp/0884271536/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>The Phoenix Project</title>
+  <author>Gene Kim, Kevin Behr, and Gene Spafford</author>
+  <imagelink>https://www.encouragework.com/images/uploads/phoenixproject.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>Mathematics: Is God Silent?</title>
+  <author>James Nickel</author>
+  <imagelink>https://www.encouragework.com/images/uploads/mathisgodsilent.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/Mathematics-God-Silent-James-Nickel/dp/187999822X/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>Men of Mathematics</title>
+  <author>E.T. Bell</author>
+  <imagelink>https://www.encouragework.com/images/uploads/menofmath.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/Mathematics-Touchstone-Book-E-T-Bell/dp/0671628186/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>God and Money</title>
+  <author>John Cortines and Gregory Baumer</author>
+  <imagelink>https://www.encouragework.com/images/uploads/godandmoney.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/God-Money-Discovered-Business-Paperback/dp/1628624736/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>Profit First</title>
+  <author>Mike Michalowicz</author>
+  <imagelink>https://www.encouragework.com/images/uploads/profitfirst.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X/?tag=navitend-20</amazonlink>
+</book><book>
+  <title>Updraft</title>
+  <author>Jackie Freedman</author>
+  <imagelink>https://www.encouragework.com/images/uploads/updraft.jpg</imagelink>
+  <amazonlink>https://www.amazon.com/Updraft-Aerodynamics-Leadership-Jacquelyn-Freedman/dp/0986156035/tag=navitend-20</amazonlink>
+</book></booksxml>

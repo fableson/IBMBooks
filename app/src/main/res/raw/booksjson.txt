@@ -1,0 +1,122 @@
+[
+
+	{
+		"title": "Every Good Endeavor",
+		"author": "Timothy Keller with Katherine Leary Alsdorf",
+		"imagelink": "https://www.encouragework.com/images/uploads/everygoodendeavor.jpg",
+		"amazonlink": "https://www.amazon.com/dp/1594632820/?tag=navitend-20"
+	},
+
+	{
+		"title": "The 7 Habits of Highly Effective People",
+		"author": "Stephen Covey",
+		"imagelink": "https://www.encouragework.com/images/uploads/7habits.jpg",
+		"amazonlink": "https://www.amazon.com/dp/1451639619/?tag=navitend-20"
+	},
+
+	{
+		"title": "Traction",
+		"author": "Gino Wickman",
+		"imagelink": "https://www.encouragework.com/images/uploads/tractionfront.jpg",
+		"amazonlink": "https://www.amazon.com/dp/1936661837/?tag=navitend-20"
+	},
+
+	{
+		"title": "Get a Grip",
+		"author": "Gino Wickman and Bill Paton",
+		"imagelink": "https://www.encouragework.com/images/uploads/getagripfront.jpg",
+		"amazonlink": "https://www.amazon.com/dp/1939529824/tag=navitend-20"
+	},
+
+	{
+		"title": "Mastering the Rockefeller Habits",
+		"author": "Verne Harnish",
+		"imagelink": "https://www.encouragework.com/images/uploads/rockefellerhabits.jpg",
+		"amazonlink": "https://www.amazon.com/Mastering-Rockefeller-Habits-Increase-Growing/dp/0978774957/?tag=navitend-20"
+	},
+
+	{
+		"title": "Scaling Up",
+		"author": "Verne Harnish",
+		"imagelink": "https://www.encouragework.com/images/uploads/scalingup.jpg",
+		"amazonlink": "https://www.amazon.com/Scaling-Up-Companies-Rockefeller-Habits/dp/0986019526/?tag=navitend-20"
+	},
+
+	{
+		"title": "Good To Great",
+		"author": "Jim Collins and Jerry Porras",
+		"imagelink": "https://www.encouragework.com/images/uploads/goodtogreat.jpg",
+		"amazonlink": "https://www.amazon.com/dp/0066620996/?tag=navitend-20"
+	},
+
+	{
+		"title": "Scrum",
+		"author": "Jeff Southerland",
+		"imagelink": "https://www.encouragework.com/images/uploads/scrum.jpg",
+		"amazonlink": "https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X/?tag=navitend-20"
+	},
+
+	{
+		"title": "The Goal",
+		"author": "Eli Goldratt",
+		"imagelink": "https://www.encouragework.com/images/uploads/thegoal.jpg",
+		"amazonlink": "https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951/?tag=navitend-20"
+	},
+
+	{
+		"title": "It&#8217;s Not Luck",
+		"author": "Eli Goldratt",
+		"imagelink": "https://www.encouragework.com/images/uploads/itsnotluck.jpg",
+		"amazonlink": "https://www.amazon.com/Its-Not-Luck-Eliyahu-Goldratt/dp/0884271153/?tag=navitend-20"
+	},
+
+	{
+		"title": "Critical Chain",
+		"author": "Eli Goldratt",
+		"imagelink": "https://www.encouragework.com/images/uploads/criticalchain.jpg",
+		"amazonlink": "https://www.amazon.com/Critical-Chain-Eliyahu-M-Goldratt/dp/0884271536/?tag=navitend-20"
+	},
+
+	{
+		"title": "The Phoenix Project",
+		"author": "Gene Kim, Kevin Behr, and Gene Spafford",
+		"imagelink": "https://www.encouragework.com/images/uploads/phoenixproject.jpg",
+		"amazonlink": "https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/?tag=navitend-20"
+	},
+
+	{
+		"title": "Mathematics: Is God Silent?",
+		"author": "James Nickel",
+		"imagelink": "https://www.encouragework.com/images/uploads/mathisgodsilent.jpg",
+		"amazonlink": "https://www.amazon.com/Mathematics-God-Silent-James-Nickel/dp/187999822X/?tag=navitend-20"
+	},
+
+	{
+		"title": "Men of Mathematics",
+		"author": "E.T. Bell",
+		"imagelink": "https://www.encouragework.com/images/uploads/menofmath.jpg",
+		"amazonlink": "https://www.amazon.com/Mathematics-Touchstone-Book-E-T-Bell/dp/0671628186/?tag=navitend-20"
+	},
+
+	{
+		"title": "God and Money",
+		"author": "John Cortines and Gregory Baumer",
+		"imagelink": "https://www.encouragework.com/images/uploads/godandmoney.jpg",
+		"amazonlink": "https://www.amazon.com/God-Money-Discovered-Business-Paperback/dp/1628624736/?tag=navitend-20"
+	},
+
+	{
+		"title": "Profit First",
+		"author": "Mike Michalowicz",
+		"imagelink": "https://www.encouragework.com/images/uploads/profitfirst.jpg",
+		"amazonlink": "https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X/?tag=navitend-20"
+	},
+
+	{
+		"title": "Updraft",
+		"author": "Jackie Freedman",
+		"imagelink": "https://www.encouragework.com/images/uploads/updraft.jpg",
+		"amazonlink": "https://www.amazon.com/Updraft-Aerodynamics-Leadership-Jacquelyn-Freedman/dp/0986156035/tag=navitend-20"
+	}
+
+]

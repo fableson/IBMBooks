@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    tools:context="com.navitend.books.MainActivity">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        tools:context="com.navitend.books.MainActivity">
+
+        <Button
+            android:id="@+id/parseXML"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="XML" />
+
+        <Button
+            android:id="@+id/parseJSON"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="JSON" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:text="Select a Button to Proceed" />
+
+</LinearLayout>
